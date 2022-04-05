@@ -1,1 +1,1 @@
-# Trendyol-Data-Science-Bootcamp-Homework1
+# Trendyol-Data-Science-Bootcamp
